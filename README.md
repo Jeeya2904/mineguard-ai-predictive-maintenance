@@ -28,3 +28,6 @@ POST `/api/predict` with JSON such as `{"temperature":72,"vibration":5,"pressure
 Sensors → feature inputs → Random Forest → failure probability → Flask API → dashboard.
 
 This is a prototype using synthetic sensor data, not a certified industrial safety system.
+
+## CI
+GitHub Actions runs the training and API health checks on pushes to `main` and pull requests.
