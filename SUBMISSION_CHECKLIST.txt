@@ -1,0 +1,18 @@
+MINEGUARD AI — SUBMISSION CHECKLIST
+
+[done] Public GitHub repository
+[done] Frontend dashboard
+[done] Flask backend / REST API
+[done] Random Forest ML model and reproducible training script
+[done] Required six inputs: temperature, vibration, pressure, RPM, operating hours, load percentage
+[done] Failure probability + Low/Medium/High risk
+[done] Maintenance recommendation
+[done] Data/model documentation
+[done] Automated tests
+[done] Dockerfile
+[done] GitHub Actions CI
+[done] README and interview notes
+
+SUBMISSION
+Repository: https://github.com/Jeeya2904/mineguard-ai-predictive-maintenance
+Deadline: September 25, 2026 before 7:00 PM
